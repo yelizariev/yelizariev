@@ -7,7 +7,7 @@
       </a>
     </td>
     <td valign="middle" style="border: none; padding: 0 6px;">
-      <a title="🍄" href="https://contra.com/yelizariev">
+      <a title="🍄" href="https://moon.mydream42.com/?debug=https://contra.com/yelizariev">
         <img width="280"
              src="https://github.com/user-attachments/assets/0a4efc3e-dc83-491e-80c0-cb4e641631da" />
       </a>

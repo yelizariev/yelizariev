@@ -1,4 +1,4 @@
-<table align="center" style="border-collapse: collapse; border: none;">
+<table align="center">
   <tr>
     <td valign="middle" style="border: none; padding: 0 6px;">
       <a href="https://contra.com/yelizariev">
@@ -24,5 +24,5 @@
 
 
 <h1 align="center">
-  ¡Hello 🦋 World!
+<sub>☀️</sub>   ¡Hello 🦋 World!   <sub>☀️</sub>
 </h1>

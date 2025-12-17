@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td valign="middle" style="border: none; padding: 0 6px;">
-      <a title="👑" href="https://contra.com/yelizariev">
+      <a title="👑" href="https://moon.mydream42.com/yelizariev">
         <img width="230"
              src="https://github.com/user-attachments/assets/842fc811-e312-4d8a-8c21-c81a01d666a1" />
       </a>
@@ -13,7 +13,7 @@
       </a>
     </td>
     <td valign="middle" style="border: none; padding: 0 6px;">
-      <a title="👑" href="https://contra.com/yelizariev">
+      <a title="👑" href="https://moon.mydream42.com/yelizariev">
         <img width="230"
              src="https://github.com/user-attachments/assets/842fc811-e312-4d8a-8c21-c81a01d666a1" />
       </a>

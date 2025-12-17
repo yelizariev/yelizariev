@@ -53,3 +53,20 @@
 </table>
 
 # 𝓗𝓸𝔀 𝓪𝓻𝓮 𝔂𝓸𝓾 𝓽𝓸𝓭𝓪𝔂❓
+
+*Hey there. Glad you stopped by.*  
+I’m **Vanya**, a cybersecurity engineer and web designer. Sounds like a weird mix at first, right? But if you look closer, both worlds share that same quiet rush: carefully slipping past barriers, brushing against things meant to stay hidden, feeling out just how deep a system will let you go before it realizes you’re already inside.
+
+I never force my way through doors that aren’t mine—because the other side of that line is ugly: handcuffs, courtrooms, orange jumpsuits, and years behind real bars that don’t open with a password reset. The System doesn’t forgive curiosity that crosses into crime. That’s why I stay strictly on the right side: I only enter where I’m invited, test your defenses with permission, find the cracks, and weld them shut stronger than before.
+
+In design, though… the rules soften. There I’m allowed to reach deeper—not into code, but into attention, curiosity, desire. Crafting experiences that draw you in smoothly, hold you longer than you planned, and leave a faint trace you can’t quite shake.
+
+Curious to see what that looks like in practice? Click any of the projects above.
+
+Just remember: once you start exploring great design and solid security, you might go deeper than planned. The rabbit hole doesn’t announce itself with fanfare—it simply opens beneath your feet, colors bleeding into one another, edges dissolving like sugar in warm tea. What began as a quick glance turns into hours lost in layers you didn’t know existed: a hidden animation that catches your breath, a security insight that shifts how you see the digital world, a subtle interaction that lingers in the back of your mind long after you’ve closed the tab. Depth reveals itself slowly, seductively, pulling you further in with every discovery, until up and down lose meaning and you’re not entirely sure you want to find the way back out.
+
+[Enter](https://mydream42.com/) if you dare.  
+[Watch](https://mao.lamourism.com/) your step.  
+And [Enjoy](https://jesus.mydream42.com/) the descent.
+
+Good luck.

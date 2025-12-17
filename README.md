@@ -63,7 +63,7 @@ In design, though… the rules soften. There I’m allowed to reach deeper—not
 
 Curious to see what that looks like in practice? Click any of the projects above.
 
-Just remember: once you start exploring great design and solid security, you might go deeper than planned. The rabbit hole doesn’t announce itself with fanfare—it simply opens beneath your feet, colors bleeding into one another, edges dissolving like sugar in warm tea. What began as a quick glance turns into hours lost in layers you didn’t know existed: a hidden animation that catches your breath, a security insight that shifts how you see the digital world, a subtle interaction that lingers in the back of your mind long after you’ve closed the tab. Depth reveals itself slowly, seductively, pulling you further in with every discovery, until up and down lose meaning and you’re not entirely sure you want to find the way back out.
+**But remember:** once you start exploring great design and solid security, you might go deeper than planned. The rabbit hole doesn’t announce itself with fanfare—it simply opens beneath your feet, colors bleeding into one another, edges dissolving like sugar in warm tea. What began as a quick glance turns into hours lost in layers you didn’t know existed: a hidden animation that catches your breath, a security insight that shifts how you see the digital world, a subtle interaction that lingers in the back of your mind long after you’ve closed the tab. Depth reveals itself slowly, seductively, pulling you further in with every discovery, until up and down lose meaning and you’re not entirely sure you want to find the way back out.
 
 [Enter](https://mydream42.com/) if you dare.  
 [Watch](https://mao.lamourism.com/) your step.  

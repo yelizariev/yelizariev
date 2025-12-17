@@ -53,7 +53,8 @@
 
 # 𝓗𝓸𝔀 𝓪𝓻𝓮 𝔂𝓸𝓾 𝓽𝓸𝓭𝓪𝔂❓
 
-*Hey there. Glad you stopped by.*  
+*Hey there. Glad you stopped by.*
+
 I’m **Vanya**, a cybersecurity engineer and web designer. Sounds like a weird mix at first, right? But if you look closer, both worlds share that same quiet rush: carefully slipping past barriers, brushing against things meant to stay hidden, feeling out just how deep a system will let you go before it realizes you’re already inside.
 
 I never force my way through doors that aren’t mine—because the other side of that line is ugly: handcuffs, courtrooms, orange jumpsuits, and years behind real bars that don’t open with a password reset. The System doesn’t forgive curiosity that crosses into crime. That’s why I stay strictly on the right side: I only enter where I’m invited, test your defenses with permission, find the cracks, and weld them shut stronger than before.

@@ -67,6 +67,6 @@ Curious to see what that looks like in practice? Click any of the projects above
 
 [Enter](https://mydream42.com/) if you dare.  
 [Watch](https://mao.lamourism.com/) your step.  
-And [Enjoy](https://jesus.mydream42.com/?debug=https://gist.github.com/yelizariev/) the descent.
+And [Enjoy](https://babushka.mydream42.com/) the descent.
 
 Good luck.

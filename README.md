@@ -35,7 +35,7 @@
       <a title="witch.mydream42.com" href="https://witch.mydream42.com/"><img width="2000" height="971" alt="image" src="https://github.com/user-attachments/assets/37088ecc-52c3-4ad3-9c6c-c120ce0a1650" /></a>
     </td>
     <td align="center" style="padding:8px; background:#000;">
-      <a title="www.voiceforlanding.com" href="https://www.voiceforlanding.com/"><img width="2000" height="971" alt="image" src="https://github.com/user-attachments/assets/c779047d-7f3a-4e4f-9224-73aaf291716b" /></a>
+      <a title="www.voiceforlanding.com" href="https://brussels.mydream42.com/"><img width="2000" height="971" alt="image" src="https://github.com/user-attachments/assets/c779047d-7f3a-4e4f-9224-73aaf291716b" /></a>
     </td>
   </tr>
   <tr>
